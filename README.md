@@ -2,13 +2,13 @@
 
 #### Task Instructions
 
- **1. Input the data:**
+**1. Input the data:**
 
-  * Establish a `pandemic` schema in the database by utilizing an additional SQL command.
-  * Formalize it as a schema using an additional SQL command.
-  * Import the [data](https://drive.google.com/file/d/1lHEXJvu2omYRgvSek6mHq-iQ3RmGAQ7e/view) using the Import wizard, as previously demonstrated in topic 3.
+- Establish a `pandemic` schema in the database by utilizing an additional SQL command.
+- Formalize it as a schema using an additional SQL command.
+- Import the [data](https://drive.google.com/file/d/1lHEXJvu2omYRgvSek6mHq-iQ3RmGAQ7e/view) using the Import wizard, as previously demonstrated in topic 3.
   [infectious_cases.csv](https://prod-files-secure.s3.us-west-2.amazonaws.com/89fec302-e51c-45d8-a968-db8bdab456d2/74d1694c-7c06-403a-b8fa-301608033701/infectious_cases.csv)
-  * Please review the data to maintain context.
+- Please review the data to maintain context.
 
 > [!IMPORTANT]
 > As evident, the Entity and Code attributes are consistently duplicated. Please consider further normalization of this data.
